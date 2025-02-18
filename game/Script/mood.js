@@ -8,7 +8,7 @@ const secondCanvas = document.getElementById('snapshot');
 var w, h;
 canvas.style.display = "block";
 
-let canvsText = `Mood Map By True Health. All rights reserved © ${new Date().getFullYear()}    Date: ${new Date().toLocaleDateString()}`;
+let canvsText = `Mood Map By SheSync. All rights reserved © ${new Date().getFullYear()}    Date: ${new Date().toLocaleDateString()}`;
 
 //delete
 Promise.all([
